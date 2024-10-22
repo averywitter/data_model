@@ -1,6 +1,6 @@
 # data_model
 
-oct 22
+oct 22 2024
 
 This repository serves as a career portfolio and the solution to scale up the tracking of a project at a bookstore.
 
